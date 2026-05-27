@@ -14,7 +14,15 @@
 
 static void introduction()
 {
-    Console.WriteLine("Introduction - Under Construction");
+    Console.WriteLine("iNaturalist Adventure Logbook - Introduction");
+    Console.WriteLine();
+    Console.WriteLine("Hello, and welcome to the iNaturalist Adventure Logbook!");
+    Console.WriteLine();
+    Console.WriteLine("My name is Lee. Having had a renewed interest and obsession with science recently, I wanted to find a way to contribute to citizen science, and so I ended up finding the iNaturalist mobile app, which allows users to take photos of animals, primarily bugs, and allows for the identification of them - either manually or automatically by the app itself. Other data, such as the time the photo/observation was taken and the location, are also recorded.");
+    Console.WriteLine();
+    Console.WriteLine("The app effectively acts as a repository of observations taken, which can then even be used by entomologists and other researchers in their research papers, since high-quality observations can give insights into different species and their distributions, and in some cases even lead to the discovery of species entirely new to science - there have even been cases where species thought to be extinct have been discovered alive thanks to iNaturalist!");
+    Console.WriteLine();
+    Console.WriteLine("What I ultimately hope to do with this app in the long term is to build a place where iNaturalist enthusiasts can record their days out and adventures using the app. Personally, I hope to spend a lot more time using the app, and it would be nice to have a logbook to complement the iNaturalist records taken during a walk or a day out or a longer adventure - a place where the adventure as a whole can be discussed, putting observations into a larger context or 'bigger picture' that could include a text summary of the day out as well as all of the photos and videos taken, that might allow a greater understanding of the things we see and observe and record.");
     Console.WriteLine();
     Console.WriteLine("1. Back To Main Menu");
     Console.WriteLine("2. Exit Application");
